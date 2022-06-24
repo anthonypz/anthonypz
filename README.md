@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Perez</h1>
 <h3 align="center">a software engineer from Los Angeles who works with JavaScript, React, and Node.js.</h3>
 <br>
-<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=anthonypz)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthonypz" alt="anthonypz's github trophies" /></a></p>
 <br>
 <p align="left"> <a href="https://twitter.com/peareza" target="blank"><img src="https://img.shields.io/twitter/follow/peareza?logo=twitter&style=for-the-badge" alt="peareza" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express and MongoDB**
 
-- ⚡ Fun fact **I love everything to do with music. Ableton Live is one of my favorite apps.**
+- ⚡ Fun fact **I love everything related to music. I'm always exploring new sounds and enjoy talking about music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

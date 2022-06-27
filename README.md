@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony Perez</h1>
-<h3 align="center">a software engineer from Los Angeles who works with JavaScript, React, and Node.js.</h3>
+<h3 align="center">a software engineer based in Los Angeles who works with JavaScript, React, and Node.js.</h3>
 <br>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthonypz" alt="anthonypz's github trophies" /></a></p>
 <br>

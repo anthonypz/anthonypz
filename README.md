@@ -3,11 +3,11 @@
 <br>
 <p align="left"> <a href="https://twitter.com/peareza" target="blank"><img src="https://img.shields.io/twitter/follow/peareza?logo=twitter&style=for-the-badge" alt="peareza" /></a> </p>
 
-- 🔭 I’m currently working on [backend APIs](https://fullstackopen.com/en/part4)
+- 🔭 I’m currently working on [InstaBrew](https://github.com/anthonypz/InstaBrew), an [Aeropress](https://aeropress.com/) coffee recipe sharing site.
 
-- 🌱 I’m currently learning about **Testing, Authentication and MongoDB**
+- 🌱 I’m currently learning about [Astro](https://astro.build/) and [T3](https://github.com/t3-oss/create-t3-app), an opinionated, full-stack, typesafe Next.js project.
 
-- ⚡ Fun fact **I'm a huge music fan. I'm always exploring new sounds and enjoy talking about music.**
+- ⚡ Fun fact: **I'm a huge music fan and enjoy learning new things. Talk to me about any awesome albums you've heard recently or a new technology you've recently learned.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

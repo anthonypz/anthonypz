@@ -3,9 +3,9 @@
 <br>
 <p align="left"> <a href="https://twitter.com/peareza" target="blank"><img src="https://img.shields.io/twitter/follow/peareza?logo=twitter&style=for-the-badge" alt="peareza" /></a> </p>
 
-- 🔭 I’m currently working on [InstaBrew](https://github.com/anthonypz/InstaBrew), an [Aeropress](https://aeropress.com/) coffee recipe sharing site.
+- 🔭 I’m currently working on [InstaBrew](https://github.com/anthonypz/InstaBrew), an [Aeropress](https://aeropress.com/) coffee recipe sharing website.
 
-- 🌱 I’m currently learning about [Astro](https://astro.build/) and [T3](https://github.com/t3-oss/create-t3-app), an opinionated, full-stack, typesafe Next.js project.
+- 🌱 I’m currently learning about [Astro](https://astro.build/) and [T3](https://github.com/t3-oss/create-t3-app), an interactive CLI tool for building fullstack apps quickly.
 
 - ⚡ Fun fact: **I'm a huge music fan and enjoy learning new things. Talk to me about any awesome albums you've heard recently or a new technology you've recently learned.**
 

@@ -57,9 +57,6 @@
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
   
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/anthonyp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="anthonyp" /></a></p>
 <br><br><br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonypz&show_icons=true&locale=en&layout=compact" alt="anthonypz" /></p>

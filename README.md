@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [InstaBrew](https://github.com/anthonypz/InstaBrew), an [Aeropress](https://aeropress.com/) coffee recipe sharing website.
 
-- 🌱 I’m currently learning about [Astro](https://astro.build/) and [T3](https://github.com/t3-oss/create-t3-app), an interactive CLI tool for building fullstack apps quickly.
+- 🌱 I’m currently learning about [T3](https://github.com/t3-oss/create-t3-app), an interactive CLI tool using the T3 stack (Next.js,tRPC, Tailwind CSS, TypeScript, Prisma, and NextAuth.js) for building fullstack apps.
 
 - ⚡ Fun fact: **I'm a huge music fan and enjoy learning new things. Talk to me about any awesome albums you've heard recently or a new technology you've recently learned.**
 

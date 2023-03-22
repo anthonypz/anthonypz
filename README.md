@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on [InstaBrew](https://github.com/anthonypz/InstaBrew), an [Aeropress](https://aeropress.com/) coffee recipe sharing website.
 
-- 🌱 I’m currently learning about [create-t3-app](https://github.com/t3-oss/create-t3-app), the best way to build typesafe full-stack apps using the 'T3 stack' (Next.js, tRPC, Tailwind CSS, TypeScript, Prisma, and NextAuth.js).
+- 🌱 I’m currently learning about [Remix](https://remix.run/) after building a project using React Router.
+
 - ⚡ Fun fact: **I'm interested in music production and AI.**
 
 <h3 align="left">Connect with me:</h3>

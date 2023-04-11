@@ -3,11 +3,11 @@
 <br>
 <p align="left"> <a href="https://twitter.com/peareza" target="blank"><img src="https://img.shields.io/twitter/follow/peareza?logo=twitter&style=for-the-badge" alt="peareza" /></a> </p>
 
-- 🔭 I’m currently working on [InstaBrew](https://github.com/anthonypz/InstaBrew), an [Aeropress](https://aeropress.com/) coffee recipe sharing website.
+- 🔭 I’m currently working on [VanLife](https://github.com/anthonypz/vanLife), a full-stack travel van rental web app.
 
-- 🌱 I’m currently learning about [Remix](https://remix.run/) after building a project using React Router.
+- 🌱 I’m currently learning about [Remix](https://remix.run/) after building a project with React Router.
 
-- ⚡ Fun fact: **I'm interested in music production and AI.**
+- ⚡ Fun fact: **I'm fascinated by music production and AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

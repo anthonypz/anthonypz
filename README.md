@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anthony,</h1>
-<h3 align="center">a software engineer based in Los Angeles who works with JavaScript, React, and Node.js.</h3>
+<h1 align="left">Hi 👋, I'm Anthony.</h1>
+<h3 align="left">I'm a Software Engineer based in Los Angeles who works with TypeScript, React, and Node.js.</h3>
 <br>
-<p align="left"> <a href="https://twitter.com/peareza" target="blank"><img src="https://img.shields.io/twitter/follow/peareza?logo=twitter&style=for-the-badge" alt="peareza" /></a> </p>
 
-- 🔭 I’m currently working on [VanLife](https://github.com/anthonypz/vanLife), a full-stack travel van rental web app.
+- 🔭 I’m currently working on [VanLife](https://github.com/anthonypz/vanLife), a full-stack travel van rental app.
 
-- 🌱 I’m currently learning about [Remix](https://remix.run/) after building a project with React Router.
+- 🌱 I’m currently expanding my knowledge on Authentication and Database design.
 
 - ⚡ Fun fact: **I'm fascinated by music production and AI.**
 
@@ -54,8 +53,8 @@
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
   
 </p>
-<br><br><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonypz&show_icons=true&locale=en&layout=compact" alt="anthonypz" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonypz&show_icons=true&theme=dracula&locale=en" alt="anthonypz" /></p>
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonypz&show_icons=true&locale=en&layout=compact" alt="anthonypz" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anthonypz&show_icons=true&theme=dracula&locale=en" alt="anthonypz" /></p>
 

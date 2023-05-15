@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [VanLife](https://github.com/anthonypz/vanLife), a full-stack travel van rental app.
 
-- 🌱 I’m currently expanding my knowledge on Authentication and Database design.
+- 🌱 I’m currently learning all about [Rust](https://www.rust-lang.org/).
 
 - ⚡ Fun fact: **I'm fascinated by music production and AI.**
 
@@ -49,6 +49,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 </p>
 
 

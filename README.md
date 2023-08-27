@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm Anthony.</h1>
-<h3 align="left">I'm a Software Engineer based in Los Angeles who works with TypeScript, React, and Node.js.</h3>
+<h3 align="left">I'm a Software Engineer based in Los Angeles who builds Fullstack web apps.</h3>
 <br>
-
-- 🔭 I’m currently working on [VanLife](https://github.com/anthonypz/vanLife), a full-stack travel van rental app.
-
 - 🌱 I’m currently learning [Go](https://go.dev/).
 
 - ⚡ Fun fact: **I'm fascinated by music production and AI.**

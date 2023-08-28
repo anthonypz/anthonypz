@@ -1,6 +1,9 @@
 <h1 align="left">Hi 👋, I'm Anthony.</h1>
 <h3 align="left">I'm a Software Engineer based in Los Angeles who builds Fullstack web apps.</h3>
 <br>
+
+- 🔭 I’m currently working on a [Spotify Clone](https://github.com/anthonypz/spotify-clone).
+
 - 🌱 I’m currently learning [Go](https://go.dev/).
 
 - ⚡ Fun fact: **I'm fascinated by music production and AI.**

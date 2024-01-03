@@ -2,9 +2,9 @@
 <h3 align="left">I'm a Software Engineer based in Los Angeles who builds Fullstack web apps.</h3>
 <br>
 
-- 🔭 I’m currently working on a [Spotify Clone](https://github.com/anthonypz/spotify-clone).
+- 🔭 I’m currently working on ...tbd.
 
-- 🌱 I’m currently learning [Go](https://go.dev/).
+- 🌱 I’m currently learning PHP and [Laravel](https://laravel.com/).
 
 - ⚡ Fun fact: **I'm fascinated by music production and AI.**
 

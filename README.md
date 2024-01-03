@@ -2,7 +2,7 @@
 <h3 align="left">I'm a Software Engineer based in Los Angeles who builds Fullstack web apps.</h3>
 <br>
 
-- 🔭 I’m currently working on ...tbd.
+- 🔭 I recently worked on porting [JourneyJot](https://journeyjot.vercel.app/) to Vue.js and Ionic.
 
 - 🌱 I’m currently learning PHP and [Laravel](https://laravel.com/).
 

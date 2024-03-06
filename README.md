@@ -1,11 +1,11 @@
-Hi 👋 My name is Anthony Perez.
+Hi 👋 My name is Anthony Perez
 ===============================
 
-I'm a Software Engineer based in Los Angeles.
+I'm a Software Engineer based in Los Angeles
 ---------------------------------------------
 
 * 🖥️  See my portfolio at [anthonypz.com](http://anthonypz.com)
-* ✉️  You can contact me on Twitter or LinkedIn below
+* ✉️  You can contact me on [Twitter](https://www.x.com/recursion_error) or [LinkedIn](https://www.linkedin.com/in/anthonypz)
 * 🚀  I'm currently working on client websites and updating my personal website
 * 🧠  I'm learning the [Go](https://go.dev/) programming language
 

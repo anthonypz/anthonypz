@@ -5,8 +5,8 @@ I'm a Software Engineer based in Los Angeles
 ---------------------------------------------
 
 * 🖥️  See my portfolio at [anthonypz.com](http://anthonypz.com)
-* ✉️  You can contact me on [Twitter](https://www.x.com/recursion_error) or [LinkedIn](https://www.linkedin.com/in/anthonypz)
-* 🚀  I'm currently working on client websites and updating my personal website
+* ✉️  You can contact me on [Twitter](https://www.x.com/recursion_error), [LinkedIn](https://www.linkedin.com/in/anthonypz), or email: sa5c5lni@duck.com
+* 🚀  I'm currently working on client websites and revamping my personal website using [Astro](https://astro.build/)
 * 🧠  I'm learning the [Go](https://go.dev/) programming language
 
 ### Skills
@@ -51,17 +51,14 @@ I'm a Software Engineer based in Los Angeles
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
-  <a href="https://github.com/anthonypz/ProShop" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=ProShop&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/anthonypz/InstaBrew" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=InstaBrew&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center">
-  <a href="https://github.com/anthonypz/Contactr" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=Contactr&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/anthonypz/zmk-config" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=zmk-config&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
 
-<br /><br /><br /><br /><br /><br /><br />
+  <a href="https://github.com/anthonypz/ProShop"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=ProShop&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+  <a href="https://github.com/anthonypz/InstaBrew"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=InstaBrew&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+  <a href="https://github.com/anthonypz/Contactr"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=Contactr&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+  <a href="https://github.com/anthonypz/zmk-config"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=zmk-config&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 ### Support Me
 

@@ -1,13 +1,11 @@
-Hi 👋 My name is Anthony Perez
-===============================
+# Hi 👋, welcome to my GitHub Profile.
 
-I'm a Software Engineer based in Los Angeles
----------------------------------------------
+## My name is Anthony and I am a Full-Stack Software Engineer based in Los Angeles with a passion for coffee, music, and tech.
 
-* 🖥️  See my portfolio at [anthonypz.com](http://anthonypz.com)
-* ✉️  You can contact me on [Twitter](https://www.x.com/recursion_error), [LinkedIn](https://www.linkedin.com/in/anthonypz), or email: sa5c5lni@duck.com
-* 🚀  I'm currently working on client websites and revamping my personal website using [Astro](https://astro.build/)
-* 🧠  I'm learning the [Go](https://go.dev/) programming language
+- 🖥️ See my portfolio at [anthonypz.com](http://anthonypz.com)
+- ✉️ You can contact me on [Twitter](https://www.x.com/recursion_error), [LinkedIn](https://www.linkedin.com/in/anthonypz), or email: sa5c5lni@duck.com
+- 🚀 I'm currently working on client websites and building [AKL-Tool](https://akltool.pages.dev/) using Vue.js.
+- 🧠 I'm learning the [Laravel](https://laravel.com/) PHP Framework
 
 ### Skills
 
@@ -37,6 +35,7 @@ I'm a Software Engineer based in Los Angeles
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+
 </p>
 
 ### Socials
@@ -51,14 +50,13 @@ I'm a Software Engineer based in Los Angeles
 
 <b>Top Repositories</b>
 
+<a href="https://github.com/anthonypz/ProShop"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=ProShop&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-  <a href="https://github.com/anthonypz/ProShop"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=ProShop&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/anthonypz/InstaBrew"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=InstaBrew&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-  <a href="https://github.com/anthonypz/InstaBrew"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=InstaBrew&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/anthonypz/Contactr"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=Contactr&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-  <a href="https://github.com/anthonypz/Contactr"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=Contactr&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
-  <a href="https://github.com/anthonypz/zmk-config"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=zmk-config&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/anthonypz/zmk-config"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=zmk-config&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 ### Support Me
 
